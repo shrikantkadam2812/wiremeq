@@ -1,0 +1,428 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>S. K. Enterprises</title>
+<link href="style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	background-color: #FFFFFF;
+}
+.style11 {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.style12 {font-size: 16px}
+a:link {
+	color: #000000;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #000000;
+}
+a:hover {
+	text-decoration: none;
+	color: #727272;
+}
+a:active {
+	text-decoration: none;
+	color: #000000;
+}
+.style59 {color: #FFFFFF}
+.style60 {font-family: Candara}
+.style62 {font-family: Candara; font-style: italic; }
+.style69 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; }
+.style80 {font-size: 14px}
+.style96 {font-family: Candara; color: #FF0000; }
+.style97 {color: #FF0000}
+</style>
+<script type="text/javascript">
+<!--
+
+
+
+
+function mmLoadMenus() {
+  if (window.mm_menu_0818121843_0) return;
+      window.mm_menu_0818121843_0 = new Menu("root",66,18,"",12,"#000000","#FFFFFF","#CCCCCC","#000084","left","middle",3,0,1000,-5,7,true,true,true,0,true,true);
+  mm_menu_0818121843_0.addMenuItem("sdsdfsf");
+   mm_menu_0818121843_0.hideOnMouseOut=false;
+   mm_menu_0818121843_0.bgColor='#555555';
+   mm_menu_0818121843_0.menuBorder=1;
+   mm_menu_0818121843_0.menuLiteBgColor='#FFFFFF';
+   mm_menu_0818121843_0.menuBorderBgColor='#777777';
+
+                                                
+          window.mm_menu_0819150646_0 = new Menu("root",147,18,"Verdana, Arial, Helvetica, sans-serif",12,"#000000","#FFFFFF","#C0ECFA","#4CB0CA","left","middle",3,0,1000,-5,7,true,true,true,0,true,true);
+  mm_menu_0819150646_0.addMenuItem("dfgd","location='contactus.html'");
+  mm_menu_0819150646_0.addMenuItem("Lined&nbsp;Pipe","location='lined-pipe.html'");
+  mm_menu_0819150646_0.addMenuItem("Lined&nbsp;Jacketed&nbsp;Pipe","location='lined-jacketed-pipe.html'");
+  mm_menu_0819150646_0.addMenuItem("dfgd","location='contactus.html'");
+  mm_menu_0819150646_0.addMenuItem("Lined&nbsp;Pipe","location='lined-pipe.html'");
+  mm_menu_0819150646_0.addMenuItem("Lined&nbsp;Jacketed&nbsp;Pipe","location='lined-jacketed-pipe.html'");
+  mm_menu_0819150646_0.addMenuItem("Lined&nbsp;Pipe","location='lined-pipe.html'");
+  mm_menu_0819150646_0.addMenuItem("Lined&nbsp;Jacketed&nbsp;Pipe","location='lined-jacketed-pipe.html'");
+  mm_menu_0819150646_0.addMenuItem("dfgd","location='contactus.html'");
+  mm_menu_0819150646_0.addMenuItem("Lined&nbsp;Pipe","location='lined-pipe.html'");
+  mm_menu_0819150646_0.addMenuItem("Lined&nbsp;Jacketed&nbsp;Pipe","location='lined-jacketed-pipe.html'");
+  mm_menu_0819150646_0.addMenuItem("dfgd","location='contactus.html'");
+  mm_menu_0819150646_0.addMenuItem("Lined&nbsp;Pipe","location='lined-pipe.html'");
+  mm_menu_0819150646_0.addMenuItem("Lined&nbsp;Jacketed&nbsp;Pipe","location='lined-jacketed-pipe.html'");
+  mm_menu_0819150646_0.addMenuItem("Lined&nbsp;Pipe","location='lined-pipe.html'");
+  mm_menu_0819150646_0.addMenuItem("Lined&nbsp;Jacketed&nbsp;Pipe","location='lined-jacketed-pipe.html'");
+  mm_menu_0819150646_0.addMenuItem("Lined&nbsp;Pipe","location='lined-pipe.html'");
+  mm_menu_0819150646_0.addMenuItem("Lined&nbsp;Jacketed&nbsp;Pipe","location='lined-jacketed-pipe.html'");
+  mm_menu_0819150646_0.addMenuItem("dfgd","location='contactus.html'");
+  mm_menu_0819150646_0.addMenuItem("Lined&nbsp;Pipe","location='lined-pipe.html'");
+  mm_menu_0819150646_0.addMenuItem("Lined&nbsp;Jacketed&nbsp;Pipe","location='lined-jacketed-pipe.html'");
+  mm_menu_0819150646_0.addMenuItem("dfgd","location='contactus.html'");
+  mm_menu_0819150646_0.addMenuItem("Lined&nbsp;Pipe","location='lined-pipe.html'");
+  mm_menu_0819150646_0.addMenuItem("Lined&nbsp;Jacketed&nbsp;Pipe","location='lined-jacketed-pipe.html'");
+  mm_menu_0819150646_0.addMenuItem("Lined&nbsp;Pipe","location='lined-pipe.html'");
+  mm_menu_0819150646_0.addMenuItem("Lined&nbsp;Jacketed&nbsp;Pipe","location='lined-jacketed-pipe.html'");
+  mm_menu_0819150646_0.addMenuItem("dfgd","location='contactus.html'");
+  mm_menu_0819150646_0.addMenuItem("Lined&nbsp;Pipe","location='lined-pipe.html'");
+  mm_menu_0819150646_0.addMenuItem("Lined&nbsp;Jacketed&nbsp;Pipe","location='lined-jacketed-pipe.html'");
+  mm_menu_0819150646_0.addMenuItem("dfgd","location='contactus.html'");
+  mm_menu_0819150646_0.addMenuItem("Lined&nbsp;Pipe","location='lined-pipe.html'");
+  mm_menu_0819150646_0.addMenuItem("Lined&nbsp;Jacketed&nbsp;Pipe","location='lined-jacketed-pipe.html'");
+  mm_menu_0819150646_0.addMenuItem("Lined&nbsp;Pipe","location='lined-pipe.html'");
+  mm_menu_0819150646_0.addMenuItem("Lined&nbsp;Jacketed&nbsp;Pipe","location='lined-jacketed-pipe.html'");
+  mm_menu_0819150646_0.addMenuItem("Lined&nbsp;Pipe","location='lined-pipe.html'");
+  mm_menu_0819150646_0.addMenuItem("Lined&nbsp;Jacketed&nbsp;Pipe","location='lined-jacketed-pipe.html'");
+   mm_menu_0819150646_0.hideOnMouseOut=true;
+   mm_menu_0819150646_0.bgColor='#555555';
+   mm_menu_0819150646_0.menuBorder=1;
+   mm_menu_0819150646_0.menuLiteBgColor='#FFFFFF';
+   mm_menu_0819150646_0.menuBorderBgColor='#777777';
+window.mm_menu_1014163832_0 = new Menu("root",86,18,"Verdana, Arial, Helvetica, sans-serif",12,"#000000","#FFFFFF","#EEE399","#B9962D","left","middle",3,0,1000,-5,7,true,true,true,0,true,true);
+  mm_menu_1014163832_0.addMenuItem("xcvx&nbsp;zxfzx","location='clients.html'");
+   mm_menu_1014163832_0.hideOnMouseOut=true;
+   mm_menu_1014163832_0.bgColor='#555555';
+   mm_menu_1014163832_0.menuBorder=1;
+   mm_menu_1014163832_0.menuLiteBgColor='#FFFFFF';
+   mm_menu_1014163832_0.menuBorderBgColor='#777777';
+
+  window.mm_menu_0819150646_0 = new Menu("root",147,18,"Verdana, Arial, Helvetica, sans-serif",12,"#000000","#FFFFFF","#EEE399","#B9962D","left","middle",3,0,1000,-5,7,true,true,true,0,true,true);
+  mm_menu_0819150646_0.addMenuItem("Lined&nbsp;Pipe","location='lined-pipe.html'");
+  mm_menu_0819150646_0.addMenuItem("Lined&nbsp;Jacketed&nbsp;Pipe","location='lined-jacketed-pipe.html'");
+   mm_menu_0819150646_0.hideOnMouseOut=true;
+   mm_menu_0819150646_0.bgColor='#555555';
+   mm_menu_0819150646_0.menuBorder=1;
+   mm_menu_0819150646_0.menuLiteBgColor='#FFFFFF';
+   mm_menu_0819150646_0.menuBorderBgColor='#777777';
+
+                      
+  mm_menu_0819150646_0.writeMenus();
+} // mmLoadMenus()
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+</script>
+<script language="JavaScript" src="mm_menu.js"></script>
+</head>
+
+<body class="body">
+<script language="JavaScript1.2">mmLoadMenus();</script>
+<center>
+  <table width="935" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td><table width="100%" height="138"  border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td height="84" valign="middle" background="images/bg-2.jpg"><table width="100%"  border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="40%" rowspan="2" valign="middle"><img src="images/polumeq-logo.jpg" width="280" height="74" /></td>
+              <td width="60%" height="68" valign="top"><div align="right"><img src="images/social-logos.jpg" width="152" height="30" /></div></td>
+            </tr>
+            <tr>
+              <td height="25" valign="middle"><span class="style62">Manufacturing Plant &amp; Machineries for Wire &amp; Cable Industry All Over The World</span></td>
+            </tr>
+          </table></td>
+          </tr>
+      </table></td>
+    </tr>
+    <tr>
+	
+      
+    </tr>
+    <tr>
+      <td bgcolor="#FFFFFF"><table width="100%" height="178"  border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td width="64%" height="178" valign="top" class="style11 style12"><img src="images/polumeq-2.jpg" width="600" height="178" border="0" usemap="#Map" /></td>
+          <td width="32%" valign="top"><div align="right">
+            <iframe  src="banner/banner.html" frameborder="0" marginheight="0" marginwidth="0" scrolling="No" allowtransparency="true" width="297" height="178" class="topmargin15"></iframe >
+          </div></td>
+        <td width="4%" valign="top"><img src="images/polumeq-1.jpg" width="41" height="178" /></td>
+        </tr>
+      </table></td>
+    </tr>
+    <tr>
+      <td height="390" valign="top" bgcolor="#FFFFFF" ><table width="100%"  border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td height="12" valign="top"><img src="images/polumeq-3.jpg" width="938" height="12" /></td>
+        </tr>
+        <tr>
+          <td><table width="938"  border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="29%" height="575" valign="top"><table width="267" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td background="images/back-2.jpg">&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td background="images/back-2.jpg"><div align="center"><img src="images/polumeq-4.jpg" width="247" height="45" /></div></td>
+                  </tr>
+                  <tr>
+                    <td background="images/bg-3.jpg"><table width="267" height="357" border="0" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td width="14" height="29"><div align="center"></div></td>
+                        <td width="19"><div align="center"><img src="images/arrow.png" width="11" height="9" /></div></td>
+                        <td width="234"><span class="style69"><a href="double-twist-bunching.html">Double Twist Bunching Machine</a></span></td>
+                      </tr>
+                      <tr>
+                        <td height="31">&nbsp;</td>
+                        <td><div align="center"><img src="images/arrow.png" width="11" height="9" /></div></td>
+                        <td><span class="style69"><a href="multi-wire-drawing.html">Multi Wire Drawing machines </a></span></td>
+                      </tr>
+                      <tr>
+                        <td height="26">&nbsp;</td>
+                        <td><div align="center"><img src="images/arrow.png" width="11" height="9" /></div></td>
+                        <td><span class="style69"><a href="skip-stranding.html">Skip Stranding Machine</a></span></td>
+                      </tr>
+                      <tr>
+                        <td height="32">&nbsp;</td>
+                        <td><div align="center"><img src="images/arrow.png" width="11" height="9" /></div></td>
+                        <td><span class="style69"><a href="tubular-stranding.html">Tubular Stranding Machine</a></span></td>
+                      </tr>
+                      <tr>
+                        <td height="29">&nbsp;</td>
+                        <td><div align="center"><img src="images/arrow.png" width="11" height="9" /></div></td>
+                        <td><a href="drum-twister.html"><span class="style69">Drum Twister</span></a></td>
+                      </tr>
+                      <tr>
+                        <td height="30">&nbsp;</td>
+                        <td><div align="center"><img src="images/arrow.png" width="11" height="9" /></div></td>
+                        <td><span class="style69"><a href="auxiliary-machines.html">Auxiliary Machines</a></span></td>
+                      </tr>
+                      <tr>
+                        <td height="30">&nbsp;</td>
+                        <td><div align="center"><img src="images/arrow.png" width="11" height="9" /></div></td>
+                        <td><span class="style69"><a href="rigid-stranding.html">Rigid Stranding Machines</a></span></td>
+                      </tr>
+                      <tr>
+                        <td height="29">&nbsp;</td>
+                        <td><div align="center"><img src="images/arrow.png" width="11" height="9" /></div></td>
+                        <td><span class="style69"><a href="stranding-machine.html">Stranding Machines (RST)</a> </span></td>
+                      </tr>
+                      <tr>
+                        <td height="30">&nbsp;</td>
+                        <td><div align="center"><img src="images/arrow.png" width="11" height="9" /></div></td>
+                        <td><span class="style69"><a href="armouring-machines.html">Armouring Machine</a></span></td>
+                      </tr>
+                      <tr>
+                        <td height="33">&nbsp;</td>
+                        <td><div align="center"><img src="images/arrow.png" width="11" height="9" /></div></td>
+                        <td><a href="inline-annealer.html"><span class="style69">Inline Annealer</span></a></td>
+                      </tr>
+                      <tr>
+                        <td height="28">&nbsp;</td>
+                        <td><div align="center"><img src="images/arrow.png" width="11" height="9" /></div></td>
+                        <td><a href="rod-break-down.html"><span class="style69">Rod Break Down Machine-Single/Dual</span></a></td>
+                      </tr>
+                      <tr>
+                        <td height="30">&nbsp;</td>
+                        <td><div align="center"><img src="images/arrow.png" width="11" height="9" /></div></td>
+                        <td><span class="style69"><a href="pairing_machine.html">Pairing Machine</a></span></td>
+                      </tr>
+                    </table></td>
+                  </tr>
+                  <tr>
+                    <td background="images/back-2.jpg">&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td height="30" background="images/back-2.jpg">&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td background="images/back-2.jpg"><br />
+                      <br />
+                      <br /></td>
+                  </tr>
+                  <tr>
+                    <td background="images/back-2.jpg"><img src="images/request-a-quote.jpg" width="266" height="86" /></td>
+                  </tr>
+                </table>
+                  </td>
+              <td width="2%">&nbsp;</td>
+              <td width="69%" valign="top"><table width="100%"  border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td>&nbsp;</td>
+                </tr>
+                <tr>
+                  <td height="61"><img src="images/hd_feedback.jpg" width="150" height="50" /></td>
+                </tr>
+                <tr>
+                  <td>&nbsp;</td>
+                </tr>
+                <tr valign="top">
+                  <td class="style40">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td class="style33">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td class="style33"><form method="post" action="http://www.laxmientps.com/cgi-sys/FormMail.cgi" name="cnt" id="cnt">
+                      <input type="hidden" name="recipient" value="sales@laxmientps.com" />
+                      <input type="hidden" name="subject" value="Information" />
+                      <input type="hidden" name="redirect" value="http://www.laxmientps.com/about.htm" />
+                      <table width="60%" height="399" border="0" align="center" cellpadding="0" cellspacing="0">
+                        <tr>
+                          <td align="center" colspan="2"><label id="errormsg"> </label></td>
+                        </tr>
+                        <tr>
+                          <th align="left" width="203"><span style="font-weight: 400"><font size="-1" face="Verdana"> <font color="#FF0000" size="2">*</font>Name:</font></span></th>
+                          <td width="519">
+                            <div align="left">
+                              <input type="text" name="realname"  id="realname" size="40" />
+                          </div></td>
+                        </tr>
+                        <tr>
+                          <th align="left" width="203"><span style="font-weight: 400"><font size="-1" face="Verdana"> &nbsp;&nbsp;Designation:</font></span></th>
+                          <td width="519">
+                            <div align="left">
+                              <input type="text" name="designation" id="designation" size="40" />
+                          </div></td>
+                        </tr>
+                        <tr>
+                          <th align="left" width="203"><span style="font-weight: 400"><font size="-1" face="Verdana"><font color="#FF0000" size="2">*</font>Company Name:</font></span></th>
+                          <td width="519">
+                            <div align="left">
+                              <input type="text" name="organisation" id="organisation" size="40" />
+                          </div></td>
+                        </tr>
+                        <tr>
+                          <th align="left" width="203"><span style="font-weight: 400"><font size="-1" face="Verdana">&nbsp;&nbsp;Address:</font></span></th>
+                          <td width="519">
+                            <div align="left">
+                              <textarea cols="40" name="address" id="address" rows="1"></textarea>
+                          </div></td>
+                        </tr>
+                        <tr>
+                          <th align="left" width="203"><span style="font-weight: 400"><font size="-1" face="Verdana"><font color="#FF0000" size="2">*</font>City:</font></span></th>
+                          <td width="519">
+                            <div align="left">
+                              <input type="text" name="cityname" id="cityname" size="40" />
+                          </div></td>
+                        </tr>
+                        <tr>
+                          <th align="left" width="203"><span style="font-weight: 400"><font size="-1" face="Verdana">&nbsp;&nbsp;Country:</font></span></th>
+                          <td width="519">
+                            <div align="left">
+                              <input type="text" name="country" id="country" size="20" />
+                          </div></td>
+                        </tr>
+                        <tr>
+                          <th align="left" width="203"><span style="font-weight: 400"><font size="-1" face="Verdana">&nbsp;&nbsp;Postal Code:</font></span></th>
+                          <td valign="top" width="519">
+                            <div align="left">
+                              <input type="text" name="pin" id="pin" maxlength="10" size="20" />
+                          </div></td>
+                        </tr>
+                        <tr>
+                          <th align="left" width="203"><span style="font-weight: 400"><font size="-1" face="Verdana"><font color="#FF0000" size="2">*</font>Phone No.:</font></span></th>
+                          <td width="519">
+                            <div align="left">
+                              <input type="text" name="phone" id="phone" maxlength="12" size="20" />
+                          </div></td>
+                        </tr>
+                        <tr>
+                          <th align="left" class="style15"><span style="font-weight: 400"><font size="-1" face="Verdana"><font color="#FF0000" size="2">*</font>Mobile No.:</font></span></th>
+                          <td><div align="left">
+                              <input type="text" name="phone2" id="phone2" maxlength="12" size="20" />
+                          </div></td>
+                        </tr>
+                        <tr>
+                          <th align="left" width="203"><span style="font-weight: 400"><font size="-1" face="Verdana">&nbsp;&nbsp;Fax:</font></span></th>
+                          <td width="519">
+                            <div align="left">
+                              <input type="text" name="fax" id="fax" maxlength="12" size="20" />
+                          </div></td>
+                        </tr>
+                        <tr>
+                          <th align="left" width="203"><span style="font-weight: 400"><font size="-1" face="Verdana"><font color="#FF0000" size="2">*</font>E-Mail:</font></span></th>
+                          <td width="519">
+                            <div align="left">
+                              <input type="text" name="email" id="email" size="40" />
+                          </div></td>
+                        </tr>
+                        <tr>
+                          <th width="203" height="89" align="left"><span style="font-weight: 400"><font size="-1" face="Verdana">Enquiry/Comments:</font></span></th>
+                          <td width="519">
+                            <div align="left">
+                              <textarea cols="40" name="enquiry" id="enquiry" rows="4"></textarea>
+                          </div></td>
+                        </tr>
+                        <tr>
+                          <th height="32" colspan="2">
+                            <div align="center">
+                              <input type="button" value="Submit" name="sub" id="sub" />
+                              <input type="reset" name="reset" id="reset" value="Reset" />
+                          </div></th>
+                        </tr>
+                        <tr>
+                          <td width="203" height="2"></td>
+                        </tr>
+                      </table>
+                  </form></td>
+                </tr>
+                <tr>
+                  <td>&nbsp;</td>
+                </tr>
+                <tr valign="top">
+                  <td class="style40">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td>&nbsp;</td>
+                </tr>
+                <tr>
+                  <td>&nbsp;</td>
+                </tr>
+                <tr>
+                  <td>&nbsp;</td>
+                </tr>
+                <tr>
+                  <td>&nbsp;</td>
+                </tr>
+              </table></td>
+            </tr>
+          </table></td>
+        </tr>
+      </table></td>
+    </tr>
+    <tr>
+      <td height="28" background="images/bg-12.jpg" bgcolor="#959595"><table align="center" width="98%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="43%" class="white-txt style59 style60 style80">All rights reserved. ©2015. Polymeq Industries </td>
+            <td width="28%">&nbsp;</td>
+            <td width="29%" class="white-txt style59 style60 style80"> Website Powered by Thane Industrial Flash</td>
+          </tr>
+      </table></td>
+    </tr>
+  </table>
+  <a href="mailto:omsaiempl@omsaielectromech.com">  </a>
+</center>
+<map name="Map" id="Map">
+  <area shape="rect" coords="47,8,116,27" href="index.html" />
+  <area shape="rect" coords="47,33,126,54" href="about.html" />
+  <area shape="rect" coords="44,62,130,84" href="product.html" />
+  <area shape="rect" coords="47,89,132,111" href="client.html" />
+  <area shape="rect" coords="49,120,137,140" href="contact.html" />
+  <area shape="rect" coords="54,149,139,169" href="feedback.php" />
+</map>
+</body>
+</html>
